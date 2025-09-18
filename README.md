@@ -1,6 +1,6 @@
 # Resume template
 
-![img](images/screenshot.png)
+![tarea994](https://github.com/user-attachments/assets/63b44b9b-3ab4-4007-95a1-f24170bc7f15)
 
 ## Docs
 
